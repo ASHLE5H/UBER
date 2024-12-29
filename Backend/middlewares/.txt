@@ -1,0 +1,4 @@
+used for having all the middelwares
+used for if the user or captain is logged out or not->if logged out the token will get blacklisted so user need to login again to use his acc.
+the user need to anyhow login again as the token will expire within 24hrs
+it also gives user details in req to controller function

@@ -1,0 +1,1 @@
+service will help in creating the captain and user in the database
